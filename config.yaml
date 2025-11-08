@@ -1,0 +1,3 @@
+log_dir: folder\
+data_path: folder\file.csv
+save_model_name: file.pkl
